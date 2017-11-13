@@ -1,3 +1,3 @@
 # SciDron
 
-SciDrom Dron platform suitable for autonomous tasks.
+SciDrom Drone platform suitable for autonomous tasks.
